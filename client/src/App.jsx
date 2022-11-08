@@ -1,12 +1,10 @@
+import "./App.scss";
 
-import './App.css';
-
-import React from 'react'
+import React from "react";
+import Home from "./homepage/Home";
 
 const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+  return <Home />;
+};
 
-export default App
+export default App;
