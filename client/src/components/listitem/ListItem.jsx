@@ -23,12 +23,10 @@ const ListItem = ({ index }) => {
       />
       {isHovered && (
         <>
-          <video autoPlay loop>
-            <source
-              src="VENOM_ LET THERE BE CARNAGE - Official Trailer 2 (HD).mp4"
-              type="video/mp4"
-            />
-          </video>
+          <iframe
+            src="https://www.youtube.com/embed/u9Mv98Gr5pY?autoplay=1&mute=1&loop=1&controls=0"
+            title="VENOM - Official Trailer (HD)"
+          ></iframe>
           <div className="itemInfo">
             <div className="icons">
               <PlayArrowIcon className="icon" />
