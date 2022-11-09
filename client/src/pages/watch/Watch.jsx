@@ -10,13 +10,12 @@ const Watch = () => {
         <KeyboardBackspaceIcon />
         Home
       </div>
-      <iframe
-        className="video"
-        src="https://www.youtube.com/embed/xLCn88bfW1o"
-        title="VENOM - Official Trailer 2 (HD)"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <video className="video" controls>
+        <source
+          src="./video/PhimMoi.Net--Black.Panther.2018.1080p.BluRay.x264-Vietsub-480p.mp4"
+          type="video/mp4"
+        ></source>
+      </video>
     </div>
   );
 };
