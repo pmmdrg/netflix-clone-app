@@ -37,7 +37,11 @@ const Featured = ({ type }) => {
           src="https://dnm.nflximg.net/api/v6/99PFSeD8sQZJBrGfVxGgWT8kG6s/AAAAQdLtYzYKPaNFtSLiwoveZLPD73mUnAygC2lyQB5uTSorKJz8jKTWP6HDk2we5RNq228A4Z8DdWy0BTsUJMM1HVERQDU8jyQT44vZLOqGFceV4kZk0IloQigXTvAtUVS8MZmX2EIIsNYZ8I1KzBqW.png?r=216"
           alt=""
         />
-        <span className="desc">Desc</span>
+        <span className="desc">
+          A gangster family epic set in 1900s England, centering on a gang who
+          sew razor blades in the peaks of their caps, and their fierce boss
+          Tommy Shelby.
+        </span>
         <div className="buttons">
           <button className="play">
             <PlayArrowIcon />
