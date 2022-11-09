@@ -11,10 +11,7 @@ const Watch = () => {
         Home
       </div>
       <video className="video" controls>
-        <source
-          src="./video/PhimMoi.Net--Black.Panther.2018.1080p.BluRay.x264-Vietsub-480p.mp4"
-          type="video/mp4"
-        ></source>
+        <source src="" type="video/mp4"></source>
       </video>
     </div>
   );
