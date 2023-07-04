@@ -29,7 +29,7 @@ const Navbar = () => {
           <span>KID</span>
           <NotificationsNoneIcon className="icon" />
           <img
-            src="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png"
+            src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/290689511_1737911996566659_8017096655365137141_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OC1x_xabvuAAX9HzSP-&tn=LA_RQjOvoRLkHtlS&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfAlc3UgorPHqg3s6J8KG3Tc3IsKjIOwep35xP-bhnRNeA&oe=63710F33"
             alt=""
           />
           <div className="profile">
