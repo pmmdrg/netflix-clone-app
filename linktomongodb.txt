@@ -1,1 +1,0 @@
-mongodb+srv://manaxit:React.JS.2605@cluster0.phzzrfp.mongodb.net/?retryWrites=true&w=majority
